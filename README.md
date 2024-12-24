@@ -10,7 +10,7 @@
 Desarrollamos una plataforma **ecommerce** para venta y compra de productos de alimentación próximos a caducar a precio reducido.
 
 - ¿Sos comerciante y no querés tirar tus productos?
-- ¿Sos un cliente y quieres comprar alimentos más baratos?
+- ¿Sos un cliente y quieres comprar alimentos más baratos??
 
 
 <div align="center">
